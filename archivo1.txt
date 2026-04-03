@@ -2,8 +2,5 @@
 
 Editando desde GitHub en la nube
 
-<<<<<<< HEAD
 Cambio realizado en local
-=======
 Cambio realizado en GitHub en la nube (rama master)
->>>>>>> b09e87382788c9d5bf7b22ba3375af186a804ccb
