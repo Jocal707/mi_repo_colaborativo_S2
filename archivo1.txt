@@ -4,3 +4,5 @@ Editando desde GitHub en la nube
 
 Cambio realizado en local
 Cambio realizado en GitHub en la nube (rama master)
+
+Linea añadida desde GitHub en la tarea
